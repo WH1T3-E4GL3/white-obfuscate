@@ -7,7 +7,7 @@
 
 A simple python code obfuscator.
 
-By using this tool you can make your code unreadable to anyone.
+By using this tool you can make your code unreadable to anyone. But its still executable in its obfuscated condition.
 
 # Commands
 
